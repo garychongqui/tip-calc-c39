@@ -1,0 +1,11 @@
+{
+  "name": "tip-cal-c39",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:garychongqui/tip-calc-c39.git",
+  "author": "garychongqui <gary.chongqui91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
